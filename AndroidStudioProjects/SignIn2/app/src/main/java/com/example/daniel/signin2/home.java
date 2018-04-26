@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.v7.widget.CardView;
 import android.view.View;
 
+
+// daniel ws here
 public class home extends AppCompatActivity {
     private CardView catalogCard;
     private CardView chatCard;
